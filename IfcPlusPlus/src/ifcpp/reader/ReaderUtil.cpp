@@ -22,6 +22,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 #endif
 
 #include <limits>
+#include <cstring>
 
 #include "ifcpp/model/BuildingException.h"
 #include "ReaderUtil.h"

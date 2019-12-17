@@ -19,6 +19,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 #include <vector>
 #include <map>
 #include <string>
+#include <cstring>
 #include <fstream>
 #include <iostream>
 
